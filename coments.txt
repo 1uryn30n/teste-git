@@ -1,0 +1,3 @@
+git init (inicializa novo repositorio) é o mesmo que apertar o botão inicializar repository.
+git status ( status do repositorio) 
+git add (adicionar arquivos ao repositorio *obs: para adicionar todos dar espaco e o ponto )
