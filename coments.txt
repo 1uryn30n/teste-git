@@ -4,3 +4,4 @@ git add (adicionar arquivos ao repositorio *obs: para adicionar todos dar espaco
 git commit  -m (salvar alterações tem que por cometario de etapas)
 git log (mostra o historico de commits que são os logs)
 git branch (mostra a branch atual a ramificação "tronco de galho")
+git checkout "nome da branche" vc muda a branche
