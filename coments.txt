@@ -5,4 +5,4 @@ git commit  -m (salvar alterações tem que por cometario de etapas)
 git log (mostra o historico de commits que são os logs)
 git branch (mostra a branch atual a ramificação "tronco de galho")
 Stash (salva temposriamente alterações não commitadas , é usado especialmente quando vai mudar de branch e não quer commitar)
-apertar o botão de publicar 
+apertar o botão 
