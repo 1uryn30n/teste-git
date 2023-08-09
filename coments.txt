@@ -1,4 +1,7 @@
 git init (inicializa novo repositorio) é o mesmo que apertar o botão inicializar repository.
 git status ( status do repositorio) 
 git add (adicionar arquivos ao repositorio *obs: para adicionar todos dar espaco e o ponto )
-git commit 
+git commit  -m (salvar alterações tem que por cometario de etapas)
+git log (mostra o historico de commits que são os logs)
+git branch (mostra a branch atual a ramificação "tronco de galho")
+Stash (salva temposriamente alterações não commitadas , é usado especialmente quando vai mudar de branch e não quer commitar)
