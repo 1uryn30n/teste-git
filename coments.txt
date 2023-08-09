@@ -6,3 +6,7 @@ git log (mostra o historico de commits que são os logs)
 git branch (mostra a branch atual a ramificação "tronco de galho")
 Stash (salva temposriamente alterações não commitadas , é usado especialmente quando vai mudar de branch e não quer commitar)
 apertar o botão 
+git push (enviar as alterações pro repositorio remoto )
+git pull (busca as alterações remostas para o repositorio local ) 
+git remote (mostar os repositorio remoto)
+git checkout (altera entre as branch)
